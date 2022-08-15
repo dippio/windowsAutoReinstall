@@ -2,6 +2,7 @@
 Automatically redownloads some packages and updates windows
 
 i prefer linux over windows, i just gotta reinstall it for school sometimes
+
 using a package manager is just more comfortable and quicker for me
 
 ## what it does
