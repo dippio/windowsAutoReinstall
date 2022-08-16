@@ -1,5 +1,5 @@
 # windowsAutoReinstall
-##Automatically redownloads some packages and updates windows
+## Automatically redownloads some packages and updates windows
 
 
 i prefer linux over windows, i just gotta reinstall it for school sometimes
