@@ -10,11 +10,11 @@ this makes it slightly less nightmareish to get everything set up
 does a bunch of stuff
 <details>
   <summary>(what it actually does)</summary>
-    - installs chocolatey
-    - updates windows (and drivers / firmware if supported)
-    - installs some cli utilities (curl, git, sudo, winfetch)
-    - installs python 3.6.7 and pandas, pillow, numpy, matplotlib and pygame
-    - installs some general programs (spotify, obs, libreoffice, audacity, etc)
+    - installs chocolatey <br>
+    - updates windows (and drivers / firmware if supported) <br>
+    - installs some cli utilities (curl, git, sudo, winfetch) <br>
+    - installs python 3.6.7 and pandas, pillow, numpy, matplotlib and pygame <br> 
+    - installs some general programs (spotify, obs, libreoffice, audacity, etc) <br>
 </details>
 
 ## how to use
